@@ -1,4 +1,4 @@
-#crossword puzzle
+# crossword puzzle
 ### Rules
 Any words from a given word list can be used in the solution as long as the constraints are satisfied.
 To the right is an example crossword puzzle with a possible solution.
